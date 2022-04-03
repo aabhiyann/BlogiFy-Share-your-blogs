@@ -18,19 +18,18 @@ For a live demo of the website visit: https://blogify-share-your-blogs.netlify.a
 ## Work Completed
 This porject is only a front-end design of a blogging site. The front-end design was completed using React.Js. A proper backend API needs to be developed and implemented withinh the porject to perform additional functionalities.
 Currently, the blog site is able to:
--> Display a header menu with links to various pages and components within the website.
--> Display a list of blogs in the homepage.
--> Click on a single blog item on the homepage to open the full blog.
--> Search blogs by category (eg. photography, food, lifestyle).
--> Add new blogs along with their category. These blogs can are displayed in the browser once added. (Stored temporarily)
--> Display a well-designed, responsive login and signup pages for user registration and login.
--> Display a settings page by cliclking on the user image on the header menu. 
--> Routing between various pages and components is achoeved using React Router v6.
+* Display a header menu with links to various pages and components within the website.
+*  Display a list of blogs in the homepage.
+* Search blogs by category (eg. photography, food, lifestyle).
+* Add new blogs along with their category. These blogs can are displayed in the browser once added. (Stored temporarily)
+* Display a well-designed, responsive login and signup pages for user registration and login.
+*  Display a settings page by cliclking on the user image on the header menu. 
+*  Routing between various pages and components is achoeved using React Router v6.
 
 The enhancements that can be performed to the project are:
--> Create a proper backend for the project using Node.JS for handling data. (Lack of such backend API prevents implementation of functionalities).
--> Even though there are buttons to edit and delete blogs within the blog component, they have no functionality. 
--> About and contact pages are not yet designed.
+* Create a proper backend for the project using Node.JS for handling data. (Lack of such backend API prevents implementation of functionalities).
+* Even though there are buttons to edit and delete blogs within the blog component, they have no functionality. 
+* About and contact pages are not yet designed.
 
 
 	
@@ -55,9 +54,9 @@ $ npm install
 $ npm start
 
 ```
-->This runs the app in the development mode.
-->Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-->The page will reload when any changes are made.
+*This runs the app in the development mode.
+*Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+*The page will reload when any changes are made.
 
 
 
