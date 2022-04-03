@@ -54,9 +54,9 @@ $ npm install
 $ npm start
 
 ```
-*This runs the app in the development mode.
-*Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-*The page will reload when any changes are made.
+* This runs the app in the development mode.
+* Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* The page will reload when any changes are made.
 
 
 
